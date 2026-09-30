@@ -1,0 +1,6 @@
+{
+  "name": "Manak Saathi - AI Assistant for Indian Standards & BIS",
+  "description": "Smart compliance roadmap, clause-level gap analyser, and licence verifier prototype by Team_B for Smart India Hackathon 2026 (Problem Statement 26107).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
